@@ -9,6 +9,7 @@ alias xpq="xbps-query -Rs"
 
 alias cpin="cp ~/projects/index.md ."
 alias ls='ls --color=auto'
-alias nr='newsraft'
+alias nb='newsboat'
 alias ncm='ncmpcpp'
 alias nm='neomutt'
+alias R='doas R'
